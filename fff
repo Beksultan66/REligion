@@ -1,0 +1,54 @@
+<html>
+      <head>
+        <title></title>
+        <link rel="stylesheet" href="christian.css"/>
+      </head>
+      <body>
+     <header>
+        
+         <h1 class="logo-text">Школа 95</h1>
+     </header>
+     <main>
+       <h2>Учителя<h2>
+  <div class="center-imeges">
+    <table>
+      <tr>
+        <td>Биялогия</td>
+        <td>Жапарова Назгуль Болотбековна</td>
+      </tr>
+      <tr>
+        <td>Киргиз тил</td>
+        <td>Жуманалиева Чолпон Алтымышевна</td>
+        <td>Мамбетсултанова Нуржамал Мухтарбековна</td>
+        <td>Каныбекова Бегимай Каныбековна</td>
+        <td></td>
+        
+      </tr>
+      <tr>
+        <td>Китайский</td>
+        <td>Мирбекова Динара Мирбековна</td>
+        <td>Рахимова Элиза Кубанычбековна</td>
+      </tr>
+      <tr>
+        <td>Англиский</td>
+        <td>Абсаматова Батма Идирисовна</td>
+        <td>Камбарова Бактыгул Уметовна</td>
+      </tr>
+       <tr>
+          <td>Физика</td>
+          <td>Китаева Айжан Эркинбековна</td>
+         <td>История</td>
+           <td>Нурдинова Гулнур Асангазиевна</td>
+         </tr>
+    </table>
+  </div></p>
+  
+      <div class="center-imeges">
+ <img src="https://avatars.dzeninfra.ru/get-zen_doc/1877958/pub_5edfd85a5d6a463a36979b80_5edfe17139ba615980b70dff/scale_1200"/>
+  </div>
+
+     </main>
+         
+     </footer>
+   </body>
+</html>
